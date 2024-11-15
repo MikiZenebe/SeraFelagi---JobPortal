@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Sera-Felagi | Job Portal",
+  title: "JoLent Seeker | Job Portal",
   description: "Create and find job opportunities",
 };
 
